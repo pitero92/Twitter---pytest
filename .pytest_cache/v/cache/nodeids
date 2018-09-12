@@ -1,0 +1,4 @@
+[
+  "custom_test.py::test_sum",
+  "custom_test.py::test_get_element_from_list"
+]

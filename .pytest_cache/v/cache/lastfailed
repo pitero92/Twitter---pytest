@@ -1,0 +1,13 @@
+{
+  "twitter_test.py::test_tweet_long_message": true,
+  "twitter_test.py::test_tweet_single_message": true,
+  "twitter_test.py::test_tweet_with_hashtag[#FIRST Test message-expected2]": true,
+  "twitter_test.py::test_tweet_with_hashtag[#first Test message-expected1]": true,
+  "twitter_test.py::test_tweet_with_hashtag[Test #first message-expected0]": true,
+  "twitter_test.py::test_tweet_with_hashtag[Test message #first #second-expected4]": true,
+  "twitter_test.py::test_tweet_with_hashtag[Test message #first-expected3]": true,
+  "twitter_test.py::test_tweet_with_hashtag_mock": true,
+  "twitter_test.py::test_tweet_with_username": true,
+  "twitter_test.py::test_twitter_get_all_hashtags": true,
+  "twitter_test.py::test_twitter_initialization": true
+}
